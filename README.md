@@ -1,2 +1,2 @@
-# DD2480- Software Engineering Fundamentals
- This repository contains all the assignments done in the course DD2480- Software Engineering Fundamentals
+# DD2380- Artificial Intelligence
+ This repository contains all the assignments done in the course DD2380-  Artificial Intelligence at KTH.
